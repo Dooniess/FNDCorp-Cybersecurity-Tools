@@ -1,8 +1,10 @@
-# FNDCORP Cybersecurity Tools
+<div align="center"><h2><b>FNDCorp - Cybersecurity Tools</b></h2></div>
+
+<p align="center"><img src="logo.png" alt="Logo" width="400" height="400"></p>
 
 This repository contains two Python scripts that are useful in the field of cybersecurity.
 
-## 1. Username Checker
+## 1. Kruptos
 
 This script allows you to verify if a username is registered on multiple popular social media and other online platforms. 
 
@@ -14,7 +16,7 @@ You simply run the script and input the username when prompted. The script will 
 
 The script currently covers the following platforms: Facebook, YouTube, WhatsApp, Instagram, Twitter, LinkedIn, Pinterest, Reddit, VK, Snapchat, GitHub, SoundCloud, Spotify, TikTok, Medium, Twitch, 9GAG, Behance, TradingView, Kik, Giphy, Genius, Fiverr, Freelancer, Imgur, Roblox, Duolingo, Codecademy, Bitbucket, and Askfm.
 
-## 2. Cybersecurity Tool Manager
+## 2. VascoCyber
 
 This script allows the user to choose from a variety of cybersecurity tools and run them with customizable options. The selected tool is executed through the subprocess module, and the output is returned to the user.
 
