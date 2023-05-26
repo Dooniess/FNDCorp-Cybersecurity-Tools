@@ -1,6 +1,6 @@
 <div align="center"><h2><b>Kruptos</b></h2></div>
 
-<p align="center"><img src="logo.png" alt="Logo" width="400" height="400"></p>
+<p align="center"><img src="..\logo.png" alt="Logo" width="400" height="400"></p>
 
 Kruptos is a Python-based tool that helps to check the presence of a given username across a variety of popular websites. It allows users to quickly see where a specific username is in use.
 
