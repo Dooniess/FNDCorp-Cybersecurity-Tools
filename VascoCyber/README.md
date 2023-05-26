@@ -19,11 +19,11 @@ VascoCyber Toolbox is a Python script that provides a collection of cybersecurit
 
 ## Usage
 
-1. Clone the repository or download the `toolbox.py` script.
+1. Clone the repository or download the `VascoCyber.py` script.
 
 2. Install the required Python packages using the command `pip install -r requirements.txt`.
 
-3. Run the script using the command `python toolbox.py`.
+3. Run the script using the command `python VascoCyber.py`.
 
 4. Choose a tool category from the menu options: Network Scanning, DNS Reconnaissance, Information Gathering, Exploitation, or Quit.
 
@@ -38,7 +38,7 @@ VascoCyber Toolbox is a Python script that provides a collection of cybersecurit
 Here's an example usage:
 
 ```
-$ python toolbox.py
+$ python VascoCyber.py
 
  ---------------------
 < Welcome, Penguin! >
@@ -119,7 +119,7 @@ Choisissez une catégorie d'outils :
 
 ## Contribution
 
-Contributions to FNDCORP Cybersecurity Toolbox are welcome! If you have any improvements, bug fixes, or additional features to suggest, please open an issue or submit a pull request.
+Contributions to VascoCyber Toolbox are welcome ! If you have any improvements, bug fixes, or additional features to suggest, please open an issue or submit a pull request.
 
 ## License
 
