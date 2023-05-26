@@ -6,7 +6,7 @@ Kruptos is a Python-based tool that helps to check the presence of a given usern
 
 ## Installation
 
-You need Python 3.6 or later to run ProfileChecker. You can have multiple Python versions (2.x and 3.x) installed on the same system without problems. In Ubuntu, you can install Python 3 like this:
+You need Python 3.6 or later to run Kruptos. You can have multiple Python versions (2.x and 3.x) installed on the same system without problems. In Ubuntu, you can install Python 3 like this:
 
     $ sudo apt-get install python3 python3-pip
 
