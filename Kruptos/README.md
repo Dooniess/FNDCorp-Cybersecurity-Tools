@@ -1,4 +1,6 @@
-# Kruptos 
+<div align="center"><h2><b>Kruptos</b></h2></div>
+
+<p align="center"><img src="logo.png" alt="Logo" width="400" height="400"></p>
 
 Kruptos is a Python-based tool that helps to check the presence of a given username across a variety of popular websites. It allows users to quickly see where a specific username is in use.
 
@@ -46,4 +48,36 @@ You need Python 3.6 or later to run ProfileChecker. You can have multiple Python
 
 ## Supported Websites
 
-Currently, the tool checks the following websites: Facebook, YouTube, WhatsApp, Instagram, Twitter, LinkedIn, Pinterest, Reddit, VK, Snapchat, GitHub, SoundCloud, Spotify, TikTok, Medium, Twitch, 9GAG, Behance, TradingView, Kik, Giphy, Genius, Fiverr, Freelancer, Imgur, Roblox, Duolingo, Codecademy, Bitbucket, Askfm.
+Currently, the tool checks the following websites:
+
+- Facebook
+- YouTube
+- WhatsApp
+- Instagram
+- Twitter
+- LinkedIn
+- Pinterest
+- Reddit
+- VK
+- Snapchat
+- GitHub
+- SoundCloud
+- Spotify
+- TikTok
+- Medium
+- Twitch
+- 9GAG
+- Behance
+- TradingView
+- Kik
+- Giphy
+- Genius
+- Fiverr
+- Freelancer
+- Imgur
+- Roblox
+- Duolingo
+- Codecademy
+- Bitbucket
+- Askfm
+
