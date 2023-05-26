@@ -31,7 +31,7 @@ You need Python 3.6 or later to run ProfileChecker. You can have multiple Python
 1. Run the Python script:
 
     ```
-    $ python3 profile_checker.py
+    $ python3 kruptos.py
     ```
 
 2. When run, the script will prompt you to enter a username:
