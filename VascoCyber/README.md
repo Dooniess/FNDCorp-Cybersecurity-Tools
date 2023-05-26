@@ -40,14 +40,19 @@ Here's an example usage:
 ```
 $ python toolbox.py
 
- _______________________
-< Welcome to FNDCORP! >
- -----------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+ ---------------------
+< Welcome, Penguin! >
+ ---------------------
+        \
+         \
+            .--.
+           |o_o |
+           |:_/ |
+          //   \ \
+         (|     | )
+        /'\_   _/`\
+        \___)=(___/
+
 
 Catégorie d'outils :
   [ ] Scanning réseau
