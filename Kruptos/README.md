@@ -11,13 +11,13 @@ You need Python 3.6 or later to run ProfileChecker. You can have multiple Python
 1. Clone the repository:
 
     ```
-    $ git clone https://github.com/dooniess/Kruptos.git
+    $ git clone https://github.com/Dooniess/Toolbox.git
     ```
    
 2. Go into the cloned directory:
 
     ```
-    $ cd ProfileChecker
+    $ cd Kruptos
     ```
 
 3. Install the necessary dependencies:
