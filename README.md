@@ -4,35 +4,108 @@
 
 This repository contains two Python scripts that are useful in the field of cybersecurity.
 
-## 1. Kruptos
+# Kruptos
 
-This script allows you to verify if a username is registered on multiple popular social media and other online platforms. 
+Kruptos is a username availability checker tool. It allows you to quickly check the availability of a username on various popular websites and platforms.
+
+## Description
+
+Kruptos is a Python script that uses the `requests` library to send HTTP requests to different sites and checks if a user profile with the specified username exists. It provides a convenient way to verify the availability of a username across multiple platforms.
+
+## Features
+
+- Check the availability of a username on popular websites and platforms.
+- Provides a simple command-line interface.
+- Outputs results with color-coded indications.
+- Easy to extend with additional sites and platforms.
+
+## Usage
+
+1. Make sure you have Python installed on your system.
+2. Clone the repository or download the `kruptos.py` script.
+3. Open a terminal or command prompt and navigate to the directory where `kruptos.py` is located.
+4. Run the script by entering the following command:
+5. Follow the instructions to enter the username you want to check.
+6. Kruptos will perform the checks on various sites and display the results.
+
+## Sites and Platforms
+
+Kruptos currently supports username availability checks on the following sites and platforms:
+
+- **Social Media**: 
+  - Facebook
+  - YouTube
+  - WhatsApp
+  - Instagram
+  - Twitter
+  - LinkedIn
+  - Pinterest
+  - Reddit
+  - VK
+  - Snapchat
+  - TikTok
+  - Twitch
+  - 9GAG
+
+- **Creative Platforms**:
+  - GitHub
+  - SoundCloud
+  - Spotify
+  - Medium
+  - Behance
+  - Giphy
+  - Genius
+
+- **Freelance Platforms**:
+  - Fiverr
+  - Freelancer
+
+- **Others**:
+  - TradingView
+  - Kik
+  - Imgur
+  - Roblox
+  - Duolingo
+  - Codecademy
+  - Bitbucket
+  - Askfm
+
+## VascoCyber
+
+VascoCyber is a comprehensive cybersecurity suite designed to assist security professionals in performing various security tasks. It offers a range of tools for network scanning, DNS reconnaissance, information gathering, exploitation, and more.
+
+### Features
+
+- Network scanning capabilities using tools like Nmap.
+- DNS reconnaissance tools such as Whois, Fierce, and Dnsenum.
+- Information gathering tools like TheHarvester for data collection.
+- Exploitation tool Searchsploit for identifying software vulnerabilities.
+- Command customization options for advanced users.
 
 ### Usage
 
-You simply run the script and input the username when prompted. The script will then try to access the profile pages of the specified username across various platforms and return whether the profile exists or not. If the profile exists, it will provide the direct URL to the profile. 
+1. Ensure that you have the required dependencies installed for each tool.
+2. Clone the repository or download the VascoCyber package.
+3. Open a terminal or command prompt and navigate to the directory where VascoCyber is located.
+4. Run the script or execute individual tools with appropriate parameters.
+5. Follow the prompts and input the necessary information.
+6. VascoCyber will execute the selected tools and provide the output.
 
-### Platforms Covered
+### Tools
 
-The script currently covers the following platforms: Facebook, YouTube, WhatsApp, Instagram, Twitter, LinkedIn, Pinterest, Reddit, VK, Snapchat, GitHub, SoundCloud, Spotify, TikTok, Medium, Twitch, 9GAG, Behance, TradingView, Kik, Giphy, Genius, Fiverr, Freelancer, Imgur, Roblox, Duolingo, Codecademy, Bitbucket, and Askfm.
+VascoCyber currently includes the following tools:
 
-## 2. VascoCyber
+- Nmap: A powerful network scanning tool.
+- Whois: Retrieves domain registration information.
+- Fierce: Conducts DNS reconnaissance.
+- Dnsenum: Enumerates DNS information.
+- TheHarvester: Collects information from various sources.
+- Searchsploit: Exploits software vulnerabilities.
 
-This script allows the user to choose from a variety of cybersecurity tools and run them with customizable options. The selected tool is executed through the subprocess module, and the output is returned to the user.
+## Contributing
 
-### Usage
+Contributions to Kruptos and VascoCyber are welcome! If you have suggestions, bug reports, or want to add support for more sites/tools, please open an issue or submit a pull request.
 
-You run the script and select the category of the tool you want to use (network scanning, DNS reconnaissance, information gathering, or exploitation). You then choose the specific tool and the options or targets you want for the tool. The script will execute the tool with the chosen options and return the output.
+## License
 
-### Tools Covered
-
-The script currently covers the following tools:
-
-- **Network Scanning:** Nmap
-- **DNS Reconnaissance:** Whois, Fierce, Dnsenum
-- **Information Gathering:** TheHarvester
-- **Exploitation:** Searchsploit
-
-These tools are not included in the script itself. They need to be separately installed in the system where the script is running.
-
-Please note that these scripts are provided for educational purposes and should be used responsibly and ethically.
+This project is licensed under the [MIT License](LICENSE).
