@@ -115,7 +115,6 @@ Catégorie d'outils :
 Choisissez une catégorie d'outils :
 > Quitter
 
-Au plaisir d'explorer la boîte à outils FNDCORP avec vous !
 ```
 
 ## Contribution
