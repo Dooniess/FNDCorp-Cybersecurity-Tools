@@ -13,7 +13,7 @@ You need Python 3.6 or later to run Kruptos. You can have multiple Python versio
 1. Clone the repository:
 
     ```
-    $ git clone https://github.com/Dooniess/Toolbox.git
+    $ git clone https://github.com/Dooniess/FNDCorp-Cybersecurity-Tools.git
     ```
    
 2. Go into the cloned directory:
