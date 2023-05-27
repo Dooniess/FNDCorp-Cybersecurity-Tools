@@ -13,7 +13,7 @@ Vous avez besoin de Python 3.6 ou d'une version ultérieure pour utiliser Krupto
 1. Clonez le référentiel :
 
     ```
-    $ git clone https://github.com/Dooniess/Toolbox.git
+    $ git clone https://github.com/Dooniess/FNDCorp-Cybersecurity-Tools.git
     ```
    
 2. Allez dans le répertoire cloné :
