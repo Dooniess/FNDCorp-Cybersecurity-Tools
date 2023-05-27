@@ -50,33 +50,40 @@ Vous avez besoin de Python 3.6 ou d'une version ultérieure pour utiliser Krupto
 
 Actuellement, l'outil vérifie les sites web suivants :
 
-- Facebook
-- YouTube
-- WhatsApp
-- Instagram
-- Twitter
-- LinkedIn
-- Pinterest
-- Reddit
-- VK
-- Snapchat
-- GitHub
-- SoundCloud
-- Spotify
-- TikTok
-- Medium
-- Twitch
-- 9GAG
-- Behance
-- TradingView
-- Kik
-- Giphy
-- Genius
-- Fiverr
-- Freelancer
-- Imgur
-- Roblox
-- Duolingo
-- Codecademy
-- Bitbucket
-- Askfm
+- **Social Media**: 
+  - Facebook
+  - YouTube
+  - WhatsApp
+  - Instagram
+  - Twitter
+  - LinkedIn
+  - Pinterest
+  - Reddit
+  - VK
+  - Snapchat
+  - TikTok
+  - Twitch
+  - 9GAG
+
+- **Creative Platforms**:
+  - GitHub
+  - SoundCloud
+  - Spotify
+  - Medium
+  - Behance
+  - Giphy
+  - Genius
+
+- **Freelance Platforms**:
+  - Fiverr
+  - Freelancer
+
+- **Others**:
+  - TradingView
+  - Kik
+  - Imgur
+  - Roblox
+  - Duolingo
+  - Codecademy
+  - Bitbucket
+  - Askfm
