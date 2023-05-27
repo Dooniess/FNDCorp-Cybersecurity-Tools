@@ -1,6 +1,6 @@
 <div align="center"><h2><b>VascoCyber - Toolbox</b></h2></div>
 
-<p align="center"><img src="logo.png" alt="Logo" width="400" height="400"></p>
+<p align="center"><img src="..\logo.png" alt="Logo" width="400" height="400"></p>
 
 VascoCyber Toolbox est un script Python qui fournit une collection d'outils de cybersécurité pour vous aider dans diverses tâches de sécurité. Il offre une interface conviviale pour interagir avec différents outils, ce qui vous permet d'effectuer des analyses de réseau, des reconnaissances DNS, des collectes d'informations et des tâches d'exploitation.
 
