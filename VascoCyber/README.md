@@ -124,5 +124,3 @@ Contributions to VascoCyber Toolbox are welcome ! If you have any improvements, 
 ## License
 
 The project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize and enhance this README according to your preferences and any additional information you'd like to provide.
