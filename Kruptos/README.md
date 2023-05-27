@@ -50,34 +50,40 @@ You need Python 3.6 or later to run Kruptos. You can have multiple Python versio
 
 Currently, the tool checks the following websites:
 
-- Facebook
-- YouTube
-- WhatsApp
-- Instagram
-- Twitter
-- LinkedIn
-- Pinterest
-- Reddit
-- VK
-- Snapchat
-- GitHub
-- SoundCloud
-- Spotify
-- TikTok
-- Medium
-- Twitch
-- 9GAG
-- Behance
-- TradingView
-- Kik
-- Giphy
-- Genius
-- Fiverr
-- Freelancer
-- Imgur
-- Roblox
-- Duolingo
-- Codecademy
-- Bitbucket
-- Askfm
+- **Social Media**: 
+  - Facebook
+  - YouTube
+  - WhatsApp
+  - Instagram
+  - Twitter
+  - LinkedIn
+  - Pinterest
+  - Reddit
+  - VK
+  - Snapchat
+  - TikTok
+  - Twitch
+  - 9GAG
 
+- **Creative Platforms**:
+  - GitHub
+  - SoundCloud
+  - Spotify
+  - Medium
+  - Behance
+  - Giphy
+  - Genius
+
+- **Freelance Platforms**:
+  - Fiverr
+  - Freelancer
+
+- **Others**:
+  - TradingView
+  - Kik
+  - Imgur
+  - Roblox
+  - Duolingo
+  - Codecademy
+  - Bitbucket
+  - Askfm
